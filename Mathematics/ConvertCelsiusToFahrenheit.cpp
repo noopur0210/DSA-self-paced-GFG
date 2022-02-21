@@ -9,4 +9,5 @@ int main(){
     int c;
     std::cin>>c;
     std::cout<<cToF(c);
+    return 0;
 }
